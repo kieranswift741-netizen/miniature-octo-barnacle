@@ -1,0 +1,2605 @@
+[
+  {
+    "file": "output/an3/data/traj_0000.npz",
+    "index": 0,
+    "params": {
+      "coupling_strength": 0.02,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.02,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 1.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0001.npz",
+    "index": 1,
+    "params": {
+      "coupling_strength": 0.02,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.02,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 0.6666666666666667
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0002.npz",
+    "index": 2,
+    "params": {
+      "coupling_strength": 0.02,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.02,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 0.39999999999999997
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0003.npz",
+    "index": 3,
+    "params": {
+      "coupling_strength": 0.02,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.02,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 0.2857142857142857
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0004.npz",
+    "index": 4,
+    "params": {
+      "coupling_strength": 0.02,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.02,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 0.25
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0005.npz",
+    "index": 5,
+    "params": {
+      "coupling_strength": 0.02,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.02,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 0.19999999999999998
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0006.npz",
+    "index": 6,
+    "params": {
+      "coupling_strength": 0.02,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.02,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 0.16666666666666669
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0007.npz",
+    "index": 7,
+    "params": {
+      "coupling_strength": 0.02,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.02,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 0.13333333333333333
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0008.npz",
+    "index": 8,
+    "params": {
+      "coupling_strength": 0.02,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.02,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 0.09999999999999999
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0009.npz",
+    "index": 9,
+    "params": {
+      "coupling_strength": 0.04,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.04,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 2.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0010.npz",
+    "index": 10,
+    "params": {
+      "coupling_strength": 0.04,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.04,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 1.3333333333333335
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0011.npz",
+    "index": 11,
+    "params": {
+      "coupling_strength": 0.04,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.04,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 0.7999999999999999
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0012.npz",
+    "index": 12,
+    "params": {
+      "coupling_strength": 0.04,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.04,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 0.5714285714285714
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0013.npz",
+    "index": 13,
+    "params": {
+      "coupling_strength": 0.04,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.04,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 0.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0014.npz",
+    "index": 14,
+    "params": {
+      "coupling_strength": 0.04,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.04,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 0.39999999999999997
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0015.npz",
+    "index": 15,
+    "params": {
+      "coupling_strength": 0.04,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.04,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 0.33333333333333337
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0016.npz",
+    "index": 16,
+    "params": {
+      "coupling_strength": 0.04,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.04,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 0.26666666666666666
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0017.npz",
+    "index": 17,
+    "params": {
+      "coupling_strength": 0.04,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.04,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 0.19999999999999998
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0018.npz",
+    "index": 18,
+    "params": {
+      "coupling_strength": 0.06,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.06,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 3.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0019.npz",
+    "index": 19,
+    "params": {
+      "coupling_strength": 0.06,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.06,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 2.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0020.npz",
+    "index": 20,
+    "params": {
+      "coupling_strength": 0.06,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.06,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 1.2
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0021.npz",
+    "index": 21,
+    "params": {
+      "coupling_strength": 0.06,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.06,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 0.857142857142857
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0022.npz",
+    "index": 22,
+    "params": {
+      "coupling_strength": 0.06,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.06,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 0.75
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0023.npz",
+    "index": 23,
+    "params": {
+      "coupling_strength": 0.06,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.06,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 0.6
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0024.npz",
+    "index": 24,
+    "params": {
+      "coupling_strength": 0.06,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.06,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 0.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0025.npz",
+    "index": 25,
+    "params": {
+      "coupling_strength": 0.06,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.06,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 0.4
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0026.npz",
+    "index": 26,
+    "params": {
+      "coupling_strength": 0.06,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.06,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 0.3
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0027.npz",
+    "index": 27,
+    "params": {
+      "coupling_strength": 0.08,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.08,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 4.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0028.npz",
+    "index": 28,
+    "params": {
+      "coupling_strength": 0.08,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.08,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 2.666666666666667
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0029.npz",
+    "index": 29,
+    "params": {
+      "coupling_strength": 0.08,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.08,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 1.5999999999999999
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0030.npz",
+    "index": 30,
+    "params": {
+      "coupling_strength": 0.08,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.08,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 1.1428571428571428
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0031.npz",
+    "index": 31,
+    "params": {
+      "coupling_strength": 0.08,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.08,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 1.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0032.npz",
+    "index": 32,
+    "params": {
+      "coupling_strength": 0.08,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.08,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 0.7999999999999999
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0033.npz",
+    "index": 33,
+    "params": {
+      "coupling_strength": 0.08,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.08,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 0.6666666666666667
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0034.npz",
+    "index": 34,
+    "params": {
+      "coupling_strength": 0.08,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.08,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 0.5333333333333333
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0035.npz",
+    "index": 35,
+    "params": {
+      "coupling_strength": 0.08,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.08,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 0.39999999999999997
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0036.npz",
+    "index": 36,
+    "params": {
+      "coupling_strength": 0.1,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.1,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 5.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0037.npz",
+    "index": 37,
+    "params": {
+      "coupling_strength": 0.1,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.1,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 3.3333333333333335
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0038.npz",
+    "index": 38,
+    "params": {
+      "coupling_strength": 0.1,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.1,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 2.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0039.npz",
+    "index": 39,
+    "params": {
+      "coupling_strength": 0.1,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.1,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 1.4285714285714286
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0040.npz",
+    "index": 40,
+    "params": {
+      "coupling_strength": 0.1,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.1,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 1.25
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0041.npz",
+    "index": 41,
+    "params": {
+      "coupling_strength": 0.1,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.1,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 1.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0042.npz",
+    "index": 42,
+    "params": {
+      "coupling_strength": 0.1,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.1,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 0.8333333333333334
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0043.npz",
+    "index": 43,
+    "params": {
+      "coupling_strength": 0.1,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.1,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 0.6666666666666667
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0044.npz",
+    "index": 44,
+    "params": {
+      "coupling_strength": 0.1,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.1,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 0.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0045.npz",
+    "index": 45,
+    "params": {
+      "coupling_strength": 0.12,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.12,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 6.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0046.npz",
+    "index": 46,
+    "params": {
+      "coupling_strength": 0.12,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.12,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 4.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0047.npz",
+    "index": 47,
+    "params": {
+      "coupling_strength": 0.12,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.12,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 2.4
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0048.npz",
+    "index": 48,
+    "params": {
+      "coupling_strength": 0.12,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.12,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 1.714285714285714
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0049.npz",
+    "index": 49,
+    "params": {
+      "coupling_strength": 0.12,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.12,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 1.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0050.npz",
+    "index": 50,
+    "params": {
+      "coupling_strength": 0.12,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.12,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 1.2
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0051.npz",
+    "index": 51,
+    "params": {
+      "coupling_strength": 0.12,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.12,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 1.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0052.npz",
+    "index": 52,
+    "params": {
+      "coupling_strength": 0.12,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.12,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 0.8
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0053.npz",
+    "index": 53,
+    "params": {
+      "coupling_strength": 0.12,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.12,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 0.6
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0054.npz",
+    "index": 54,
+    "params": {
+      "coupling_strength": 0.15,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.15,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 7.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0055.npz",
+    "index": 55,
+    "params": {
+      "coupling_strength": 0.15,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.15,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 5.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0056.npz",
+    "index": 56,
+    "params": {
+      "coupling_strength": 0.15,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.15,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 2.9999999999999996
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0057.npz",
+    "index": 57,
+    "params": {
+      "coupling_strength": 0.15,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.15,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 2.142857142857143
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0058.npz",
+    "index": 58,
+    "params": {
+      "coupling_strength": 0.15,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.15,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 1.875
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0059.npz",
+    "index": 59,
+    "params": {
+      "coupling_strength": 0.15,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.15,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 1.4999999999999998
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0060.npz",
+    "index": 60,
+    "params": {
+      "coupling_strength": 0.15,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.15,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 1.25
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0061.npz",
+    "index": 61,
+    "params": {
+      "coupling_strength": 0.15,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.15,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 1.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0062.npz",
+    "index": 62,
+    "params": {
+      "coupling_strength": 0.15,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.15,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 0.7499999999999999
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0063.npz",
+    "index": 63,
+    "params": {
+      "coupling_strength": 0.18,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.18,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 9.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0064.npz",
+    "index": 64,
+    "params": {
+      "coupling_strength": 0.18,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.18,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 6.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0065.npz",
+    "index": 65,
+    "params": {
+      "coupling_strength": 0.18,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.18,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 3.5999999999999996
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0066.npz",
+    "index": 66,
+    "params": {
+      "coupling_strength": 0.18,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.18,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 2.571428571428571
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0067.npz",
+    "index": 67,
+    "params": {
+      "coupling_strength": 0.18,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.18,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 2.25
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0068.npz",
+    "index": 68,
+    "params": {
+      "coupling_strength": 0.18,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.18,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 1.7999999999999998
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0069.npz",
+    "index": 69,
+    "params": {
+      "coupling_strength": 0.18,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.18,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 1.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0070.npz",
+    "index": 70,
+    "params": {
+      "coupling_strength": 0.18,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.18,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 1.2
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0071.npz",
+    "index": 71,
+    "params": {
+      "coupling_strength": 0.18,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.18,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 0.8999999999999999
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0072.npz",
+    "index": 72,
+    "params": {
+      "coupling_strength": 0.2,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.2,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 10.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0073.npz",
+    "index": 73,
+    "params": {
+      "coupling_strength": 0.2,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.2,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 6.666666666666667
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0074.npz",
+    "index": 74,
+    "params": {
+      "coupling_strength": 0.2,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.2,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 4.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0075.npz",
+    "index": 75,
+    "params": {
+      "coupling_strength": 0.2,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.2,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 2.857142857142857
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0076.npz",
+    "index": 76,
+    "params": {
+      "coupling_strength": 0.2,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.2,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 2.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0077.npz",
+    "index": 77,
+    "params": {
+      "coupling_strength": 0.2,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.2,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 2.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0078.npz",
+    "index": 78,
+    "params": {
+      "coupling_strength": 0.2,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.2,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 1.6666666666666667
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0079.npz",
+    "index": 79,
+    "params": {
+      "coupling_strength": 0.2,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.2,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 1.3333333333333335
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0080.npz",
+    "index": 80,
+    "params": {
+      "coupling_strength": 0.2,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.2,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 1.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0081.npz",
+    "index": 81,
+    "params": {
+      "coupling_strength": 0.25,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.25,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 12.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0082.npz",
+    "index": 82,
+    "params": {
+      "coupling_strength": 0.25,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.25,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 8.333333333333334
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0083.npz",
+    "index": 83,
+    "params": {
+      "coupling_strength": 0.25,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.25,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 5.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0084.npz",
+    "index": 84,
+    "params": {
+      "coupling_strength": 0.25,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.25,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 3.571428571428571
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0085.npz",
+    "index": 85,
+    "params": {
+      "coupling_strength": 0.25,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.25,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 3.125
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0086.npz",
+    "index": 86,
+    "params": {
+      "coupling_strength": 0.25,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.25,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 2.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0087.npz",
+    "index": 87,
+    "params": {
+      "coupling_strength": 0.25,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.25,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 2.0833333333333335
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0088.npz",
+    "index": 88,
+    "params": {
+      "coupling_strength": 0.25,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.25,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 1.6666666666666667
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0089.npz",
+    "index": 89,
+    "params": {
+      "coupling_strength": 0.25,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.25,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 1.25
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0090.npz",
+    "index": 90,
+    "params": {
+      "coupling_strength": 0.3,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.3,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 15.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0091.npz",
+    "index": 91,
+    "params": {
+      "coupling_strength": 0.3,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.3,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 10.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0092.npz",
+    "index": 92,
+    "params": {
+      "coupling_strength": 0.3,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.3,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 5.999999999999999
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0093.npz",
+    "index": 93,
+    "params": {
+      "coupling_strength": 0.3,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.3,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 4.285714285714286
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0094.npz",
+    "index": 94,
+    "params": {
+      "coupling_strength": 0.3,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.3,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 3.75
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0095.npz",
+    "index": 95,
+    "params": {
+      "coupling_strength": 0.3,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.3,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 2.9999999999999996
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0096.npz",
+    "index": 96,
+    "params": {
+      "coupling_strength": 0.3,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.3,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 2.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0097.npz",
+    "index": 97,
+    "params": {
+      "coupling_strength": 0.3,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.3,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 2.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0098.npz",
+    "index": 98,
+    "params": {
+      "coupling_strength": 0.3,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.3,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 1.4999999999999998
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0099.npz",
+    "index": 99,
+    "params": {
+      "coupling_strength": 0.35,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.35,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 17.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0100.npz",
+    "index": 100,
+    "params": {
+      "coupling_strength": 0.35,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.35,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 11.666666666666666
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0101.npz",
+    "index": 101,
+    "params": {
+      "coupling_strength": 0.35,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.35,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 6.999999999999999
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0102.npz",
+    "index": 102,
+    "params": {
+      "coupling_strength": 0.35,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.35,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 4.999999999999999
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0103.npz",
+    "index": 103,
+    "params": {
+      "coupling_strength": 0.35,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.35,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 4.375
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0104.npz",
+    "index": 104,
+    "params": {
+      "coupling_strength": 0.35,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.35,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 3.4999999999999996
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0105.npz",
+    "index": 105,
+    "params": {
+      "coupling_strength": 0.35,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.35,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 2.9166666666666665
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0106.npz",
+    "index": 106,
+    "params": {
+      "coupling_strength": 0.35,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.35,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 2.3333333333333335
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0107.npz",
+    "index": 107,
+    "params": {
+      "coupling_strength": 0.35,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.35,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 1.7499999999999998
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0108.npz",
+    "index": 108,
+    "params": {
+      "coupling_strength": 0.4,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.4,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 20.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0109.npz",
+    "index": 109,
+    "params": {
+      "coupling_strength": 0.4,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.4,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 13.333333333333334
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0110.npz",
+    "index": 110,
+    "params": {
+      "coupling_strength": 0.4,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.4,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 8.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0111.npz",
+    "index": 111,
+    "params": {
+      "coupling_strength": 0.4,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.4,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 5.714285714285714
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0112.npz",
+    "index": 112,
+    "params": {
+      "coupling_strength": 0.4,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.4,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 5.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0113.npz",
+    "index": 113,
+    "params": {
+      "coupling_strength": 0.4,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.4,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 4.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0114.npz",
+    "index": 114,
+    "params": {
+      "coupling_strength": 0.4,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.4,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 3.3333333333333335
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0115.npz",
+    "index": 115,
+    "params": {
+      "coupling_strength": 0.4,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.4,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 2.666666666666667
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0116.npz",
+    "index": 116,
+    "params": {
+      "coupling_strength": 0.4,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.4,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 2.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0117.npz",
+    "index": 117,
+    "params": {
+      "coupling_strength": 0.45,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.45,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 22.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0118.npz",
+    "index": 118,
+    "params": {
+      "coupling_strength": 0.45,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.45,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 15.000000000000002
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0119.npz",
+    "index": 119,
+    "params": {
+      "coupling_strength": 0.45,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.45,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 9.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0120.npz",
+    "index": 120,
+    "params": {
+      "coupling_strength": 0.45,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.45,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 6.428571428571428
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0121.npz",
+    "index": 121,
+    "params": {
+      "coupling_strength": 0.45,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.45,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 5.625
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0122.npz",
+    "index": 122,
+    "params": {
+      "coupling_strength": 0.45,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.45,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 4.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0123.npz",
+    "index": 123,
+    "params": {
+      "coupling_strength": 0.45,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.45,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 3.7500000000000004
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0124.npz",
+    "index": 124,
+    "params": {
+      "coupling_strength": 0.45,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.45,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 3.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0125.npz",
+    "index": 125,
+    "params": {
+      "coupling_strength": 0.45,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.45,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 2.25
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0126.npz",
+    "index": 126,
+    "params": {
+      "coupling_strength": 0.45,
+      "spectral_width": 0.3
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.45,
+      "gamma": 0.3,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 3.3333333333333335,
+      "non_markovianity": 1.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0127.npz",
+    "index": 127,
+    "params": {
+      "coupling_strength": 0.5,
+      "spectral_width": 0.02
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.5,
+      "gamma": 0.02,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 50.0,
+      "non_markovianity": 25.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0128.npz",
+    "index": 128,
+    "params": {
+      "coupling_strength": 0.5,
+      "spectral_width": 0.03
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.5,
+      "gamma": 0.03,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 33.333333333333336,
+      "non_markovianity": 16.666666666666668
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0129.npz",
+    "index": 129,
+    "params": {
+      "coupling_strength": 0.5,
+      "spectral_width": 0.05
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.5,
+      "gamma": 0.05,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 20.0,
+      "non_markovianity": 10.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0130.npz",
+    "index": 130,
+    "params": {
+      "coupling_strength": 0.5,
+      "spectral_width": 0.07
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.5,
+      "gamma": 0.07,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 14.285714285714285,
+      "non_markovianity": 7.142857142857142
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0131.npz",
+    "index": 131,
+    "params": {
+      "coupling_strength": 0.5,
+      "spectral_width": 0.08
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.5,
+      "gamma": 0.08,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 12.5,
+      "non_markovianity": 6.25
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0132.npz",
+    "index": 132,
+    "params": {
+      "coupling_strength": 0.5,
+      "spectral_width": 0.1
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.5,
+      "gamma": 0.1,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 10.0,
+      "non_markovianity": 5.0
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0133.npz",
+    "index": 133,
+    "params": {
+      "coupling_strength": 0.5,
+      "spectral_width": 0.12
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.5,
+      "gamma": 0.12,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 8.333333333333334,
+      "non_markovianity": 4.166666666666667
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0134.npz",
+    "index": 134,
+    "params": {
+      "coupling_strength": 0.5,
+      "spectral_width": 0.15
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.5,
+      "gamma": 0.15,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 6.666666666666667,
+      "non_markovianity": 3.3333333333333335
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0135.npz",
+    "index": 135,
+    "params": {
+      "coupling_strength": 0.5,
+      "spectral_width": 0.2
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.5,
+      "gamma": 0.2,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 5.0,
+      "non_markovianity": 2.5
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  },
+  {
+    "file": "output/an3/data/traj_0136.npz",
+    "index": 136,
+    "params": {
+      "coupling_strength": 0.5,
+      "spectral_width": 0.3
+    },
+    "spectral": {
+      "type": "Lorentzian",
+      "Omega": 0.5,
+      "gamma": 0.3,
+      "omega_c": 1.0,
+      "temperature": 0.0,
+      "memory_time": 3.3333333333333335,
+      "non_markovianity": 1.6666666666666667
+    },
+    "num_time_steps": 300,
+    "feature_dim": 128
+  }
+]
