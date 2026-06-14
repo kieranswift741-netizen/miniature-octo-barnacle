@@ -1,0 +1,9 @@
+qutip>=5.0
+torch>=2.0
+numpy>=2.0
+matplotlib>=3.7
+pandas>=2.0
+tqdm>=4.65
+pyyaml>=6.0
+scipy>=1.10
+jupyter>=1.0

@@ -1,0 +1,52 @@
+# ============================================================
+# Quantum Battery LSTM Efficiency Prediction — Configuration
+# ============================================================
+
+physics:
+  num_tls: 1                    # Number of two-level systems (Dicke model)
+  omega_0: 1.0                  # Bare transition frequency (ħω₀)
+  coupling_strength: 0.1        # System-bath coupling strength Ω
+  center_frequency: 1.0         # Spectral density center frequency ω_c
+  spectral_width: 0.5           # Spectral density width γ (smaller = stronger memory)
+  temperature: 0.0              # Bath temperature (T=0 for simplicity)
+  drive_amplitude: 1.0          # External driving field amplitude F
+
+heom:
+  max_depth: 5                  # HEOM truncation tier
+  time_step: 0.05               # Evolution time step
+  total_time: 20.0              # Total evolution time
+
+data:
+  output_dir: "./data/generated" # Where .npy files are saved
+  param_grid:                    # Parameter ranges for data generation
+    coupling_strength: [0.05, 0.1, 0.2, 0.3, 0.4, 0.5]
+    spectral_width: [0.1, 0.2, 0.5, 1.0]
+  num_trajectories: 500         # Number of evolution curves to generate
+  window_size: 20               # Sliding window T_win
+  train_split: 0.8              # Train/validation split ratio
+
+model:
+  # lstm_layers: [64, 32]       # (commented = auto-scale with N)
+  # dense_units: 16             # (commented = auto-scale with N)
+  dropout: 0.2                  # Dropout rate between layers
+
+training:
+  batch_size: 64
+  epochs: 200
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  early_stop_patience: 30
+  lr_scheduler:
+    factor: 0.5
+    patience: 10
+  seed: 42                      # Random seed for reproducibility
+
+loss:
+  lambda_trace: 1.0             # Weight for trace constraint
+  lambda_herm: 1.0              # Weight for hermiticity constraint
+  lambda_pos: 0.1               # Weight for positivity constraint
+
+output:
+  model_dir: "./models"         # Saved model checkpoints
+  plot_dir: "./plots"           # Saved figures
+  log_dir: "./logs"             # Training logs
